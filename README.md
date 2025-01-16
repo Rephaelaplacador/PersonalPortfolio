@@ -70,13 +70,7 @@ This project is a modern React application developed using Vite as the build too
 - **Theme Switching**: Click the theme toggle button in the header to switch between light and dark modes.  
 - **Dynamic Components**: The application dynamically updates content using modular components for better maintainability.  
 
-## Contribution  
 
-Contributions are welcome! If you'd like to suggest new features, report bugs, or enhance the codebase, feel free to open an issue or submit a pull request.  
 
-## License  
 
-This project is licensed under the [MIT License](LICENSE).  
-
----  
 
